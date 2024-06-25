@@ -11,7 +11,7 @@ binding = "shopStorage"
 [[d1_databases]]
 binding = "db" # available in your Worker on env.DB
 database_name = "test_db"
-database_id = "5d86805260f1414b9761c8b08b012e51"
+database_id = "e7ca96ac-0590-4e09-9c83-da985fbee829"
 
 [vars]
 APP_NAME = "SwagSanctions"

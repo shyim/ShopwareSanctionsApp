@@ -18,6 +18,6 @@
   },
   "dependencies": {
     "@friendsofshopware/app-server": "npm:@jsr/friendsofshopware__app-server@^0.0.54",
-    "hono": "^4.4.7"
+    "hono": "^4.5.8"
   }
 }
